@@ -1,6 +1,4 @@
-package mum.l2question3;
 
-import mum.l2question2.*;
 
 class Account {
 
